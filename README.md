@@ -83,6 +83,7 @@ Themes
 * [active_bootstrap_skin](https://github.com/vinhnglx/active_bootstrap_skin)
 * [arctic_admin](https://github.com/cle61/arctic_admin)
 * [ayann/active_admin_flat_skin](https://github.com/ayann/active_admin_flat_skin)
+
 **Awesome ActiveAdmin Themes List:** https://github.com/paladini/activeadmin-themes
 
 Plugins
