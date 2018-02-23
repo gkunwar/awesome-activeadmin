@@ -1,4 +1,4 @@
-Warning: This list will no longer be maintained.
+Warning: This list is now maintained by Ganesh Kunwar.
 ================================================
 **Please, use the awesome ActiveAdmin wiki.
 Follow the link: https://github.com/activeadmin/activeadmin/wiki**
